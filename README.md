@@ -1,3 +1,3 @@
-# decisions-python
+# solutions-python
 
 Хранилище решений различных задач на Python.
